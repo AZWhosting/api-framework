@@ -1,4 +1,4 @@
-api-framework
+API Framework
 =============
 
-Framework for creating REST API in PHP.
+Framework for creating a REST API using PHP and MySQL.
